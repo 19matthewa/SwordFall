@@ -20,6 +20,9 @@ Swordfall is a compelling concept, delivering an exciting 2D local multiplayer s
 - Sharpens reflexes, aiming, and decision-making
 - Provides a competitive, group-friendly experience
 
+![Arena Example](Arena.png)
+![Character Examples](Characters.png)
+
 ## Conceptualization and Design
 
 ### List the Main Features or Functionalities
